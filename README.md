@@ -55,11 +55,16 @@ MySQL • Git • Android Studio • IntelliJ IDEA • VS Code • NetBeans
 
 ---
 
-### 🌱 Currently Learning
-- Microservices Architecture with Spring Boot  
-- Advanced React Native Animations  
-- Rust for System-Level Development  
-- Tailwind CSS & Modern Frontend Workflows
+## 🌱 Currently Learning
+- **Spring Boot (Advanced)**
+- **Android Development** with Java & Kotlin
+- **Kotlin** for Multiplatform Development
+- **Rust** for System-Level Programming
+
+## 🚀 Plan to Learn Next
+- **Flutter**
+- **JavaFX**
+- **Compose UI Designing** with Kotlin & Jetpack
 
 ---
 
