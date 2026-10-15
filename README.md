@@ -60,6 +60,8 @@ MySQL • Git • Android Studio • IntelliJ IDEA • VS Code • NetBeans
 - **Android Development** with Java & Kotlin
 - **Kotlin** for Multiplatform Development
 - **Rust** for System-Level Programming
+- **LLM Integration** with Ollama for AI-Powered Business Analytics & Database Analysis
+- **DevOps & Deployment** with Docker, Containerization & Reverse Proxy Configuration
 
 ## 🚀 Plan to Learn Next
 - **Flutter**
